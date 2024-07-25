@@ -1,5 +1,5 @@
 * 데이터 정제 노트북 파일
-* 추천시스템 model 설계 노트북 파일
+* 추천시스템 model 설계 및 VectorDB 구축 노트북 파일
 * 추천시스템 model 선정 시각화 및 eda 노트북 파일
 
 ### 추천시스템 Model Flow
